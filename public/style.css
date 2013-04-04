@@ -1,0 +1,16 @@
+body {
+  margin: 150px 100px 150px 100px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 120px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+div {
+  line-height: 1.5;
+}
